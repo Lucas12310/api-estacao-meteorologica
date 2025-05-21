@@ -1,0 +1,9 @@
+# servidor
+PORT=7001
+JWT_SECRET=""
+
+# banco de dados
+DATABASE_URL=""
+
+SWAGGER_DEV_URL="http://localhost:7001"
+SWAGGER_PROD_URL="http://localhost:7001"

@@ -1,0 +1,5 @@
+/coverage
+/documentacao
+/node_modules
+.env
+.git
